@@ -18,3 +18,8 @@ A real-time traffic sign recognition system using CNN, OpenCV, and text-to-speec
 ```bash
 pip install tensorflow opencv-python pyttsx3 numpy
 python real_time_prediction.py
+
+## 👩‍💻 Developed by
+**Sangavi Pandi M**  
+B.E. CSE (AI & ML), Dr. Mahalingam College of Engineering and Technology  
+📧 sangavipandi8@gmail.com
