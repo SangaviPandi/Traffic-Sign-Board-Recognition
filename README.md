@@ -15,9 +15,10 @@ A real-time traffic sign recognition system using CNN, OpenCV, and text-to-speec
 - Trained with CNN model
 
 ## ▶️ How to Run
-```bash
+
 pip install tensorflow opencv-python pyttsx3 numpy
 python real_time_prediction.py
+
 
 ## 👩‍💻 Developed by
 **Sangavi Pandi M**  
